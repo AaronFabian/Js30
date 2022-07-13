@@ -26,7 +26,7 @@
 } */
 html {
   font-size: 10px;
-  background: url('../image/background.jpg') bottom center;
+  background: url('image/background.jpg') bottom center;
   background-size: cover;
 }
 
